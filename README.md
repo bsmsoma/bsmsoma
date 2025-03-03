@@ -12,4 +12,4 @@ I'm a web developer and Database Technology graduate with a passion for creating
 *   🚀  I'm currently working on [Website for a Bridal Store](http://requintenoivas.netlify.app/)
 *   🧠  I'm learning Typescript and C#
 *   🤝  I'm open to collaborating on Build scalable, robust applications with full-stack capabilities.
-*   ⚡  I love Dota 2### Skills 
+*   ⚡  I love Dota 2

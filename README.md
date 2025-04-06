@@ -4,7 +4,7 @@ Hi 👋 My name is Brunno Mota
 Frontend Developer
 ------------------
 
-I'm a web developer and Database Technology graduate with a passion for creating functional, aesthetic, and accessible web applications. Over the past year, I've expanded my front-end expertise, mastering tools like React, React Router, Sass, and Firebase. Now, I'm diving into the exciting world of backend development through a C# bootcamp to build full-stack solutions. 🚀
+I'm a web developer and Database Technology graduate with a passion for creating functional, aesthetic, and accessible web applications. Over the past year, I've expanded my front-end expertise, mastering tools like React, React Router, Sass, and Firebase. Now, I'm diving into the exciting world of backend. 🚀
 
 *   🌍  I'm based in Palmas - Tocantins
 *   🖥️  See my portfolio at [BrunnoMota](http://brunnomota.com.br/)

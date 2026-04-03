@@ -8,7 +8,7 @@ I'm a Software Engineering student and Database Technology graduate, building mo
 
 I started my journey in front-end, working with React, React Router, and Sass, and quickly evolved into full-stack development using Node.js, Express, and TypeScript. Today, I'm also exploring AI-driven solutions, working with APIs, automation, and data-oriented applications.
 
-Beyond tech, I run a business in the fashion industry, which gives me a practical edge in building solutions that actually generate results — not just code that "looks cool".  
+Beyond tech, I run a business in the fashion industry.  
 
 🚀 Currently focused on becoming a solid Full-Stack Developer with expertise in scalable systems and AI integration.
 

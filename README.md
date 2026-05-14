@@ -1,57 +1,37 @@
-Hi 👋 My name is Brunno Mota
-============================
+# Brunno Mota
 
-Full-Stack Developer in Progress | Data & AI Enthusiast
-------------------------------------------------------
+**Full-Stack Developer · AI Integration · Web Systems**
 
-I'm a Software Engineering student and Database Technology graduate, building modern web applications with a strong focus on performance, scalability, and real-world problem solving.
+I build web applications and AI-powered tools that solve real business problems. My work sits at the intersection of modern frontend, scalable backend, and LLM-driven automation.
 
-I started my journey in front-end, working with React, React Router, and Sass, and quickly evolved into full-stack development using Node.js, Express, and TypeScript. Today, I'm also exploring AI-driven solutions, working with APIs, automation, and data-oriented applications.
-
-Beyond tech, I run a business in the fashion industry.  
-
-🚀 Currently focused on becoming a solid Full-Stack Developer with expertise in scalable systems and AI integration.
+Currently shipping production systems with TypeScript, React, and Node.js — integrating AI APIs (OpenAI, Anthropic, Gemini) for intelligent features like document processing, automation pipelines, and data-driven interfaces.
 
 ---
 
-* 🌍 I'm based in Palmas - Tocantins, Brazil  
-* 🖥️ See my portfolio at [BrunnoMota](http://brunnomota.com.br/)  
-* ✉️ Contact me at [soma.bsm@gmail.com](mailto:soma.bsm@gmail.com)  
-* 🚀 Currently working on business-driven web solutions and internal systems  
-* 🧠 Learning more about TypeScript, backend architecture, and AI applications  
-* 🤝 Open to collaborating on full-stack projects, APIs, and intelligent systems  
-* ⚡ Fun fact: I still play Dota 2 (yes, I question my life choices sometimes)  
+**Stack**
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React, TypeScript, Sass, Vite |
+| Backend | Node.js, Express, REST APIs |
+| Database | PostgreSQL (Supabase), MySQL, MongoDB, Firebase |
+| AI / LLM | OpenAI API, Anthropic API, prompt engineering, RAG patterns |
+| Tooling | Git, Docker basics, CI/CD, Vercel |
 
 ---
 
-### 🧰 Tech Stack
+**Focus areas**
 
-**Front-end**  
-React, React Router, Sass, JavaScript, TypeScript  
-
-**Back-end**  
-Node.js, Express  
-
-**Database**  
-MySQL, PostgreSQL (Supabase), MongoDB, Firebase  
-
-**Other**  
-APIs, Authentication, CRUD Systems, AI integrations  
+- LLM integration and AI-augmented applications  
+- Full-stack architecture for internal business systems  
+- Data-oriented backends with clean API design  
+- Performance and maintainability at scale
 
 ---
 
-### 📈 What I'm building
+**Contact**
 
-- Real-world business applications  
-- Data-driven systems  
-- AI-powered solutions using APIs  
-- Scalable full-stack architectures  
-
----
-
-### 🎯 Goals
-
-- Become a highly skilled Full-Stack Developer  
-- Master backend architecture and system design  
-- Build products that generate real business impact  
-- Grow in the AI space and create intelligent applications  
+- Portfolio: [brunnomota.com.br](http://brunnomota.com.br/)  
+- Email: [soma.bsm@gmail.com](mailto:soma.bsm@gmail.com)  
+- Location: Palmas, Tocantins — Brazil  
+- Open to: full-stack projects, AI integrations, technical consulting
